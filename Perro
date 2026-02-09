@@ -1,10 +1,11 @@
 using System;
+
 public class Perro
 {
-    // Atributo
+    // Atributo de la clase perro
     public string nombre;
 
-    // Método
+    // Método de la clase perro
     public void ComunicarSonido()
     {
         Console.WriteLine(nombre + " Ladra.");
